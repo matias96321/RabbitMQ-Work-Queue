@@ -6,6 +6,7 @@
   "author": "matthiass2 <matias_69914081@hotmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.18.2",
     "typescript": "^4.9.3"
   }
 }
